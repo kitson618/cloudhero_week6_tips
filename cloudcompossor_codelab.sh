@@ -5,7 +5,7 @@ BQ Dataset Name in EU : nyc_tlc_EU
 DAGS task : composer_sample_bq_copy_across_locations 
 
 # Task0 : Prepare Cloud Shell 
-gcloud config set project Project_NAMETi
+gcloud config set project Project_NAME
 
 # Task1 : Create Composer Environment 
 # Name: composer-advanced-lab
